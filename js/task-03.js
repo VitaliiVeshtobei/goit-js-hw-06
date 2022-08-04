@@ -22,5 +22,3 @@ const ulImagesEl = images
   .join("");
 
 galleryListEl.insertAdjacentHTML("afterbegin", ulImagesEl);
-
-console.log(galleryListEl);
